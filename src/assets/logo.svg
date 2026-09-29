@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" width="100%" height="100%">
+  <!-- Icon Background -->
+  <rect x="5" y="5" width="90" height="90" rx="22" ry="22" fill="#007bff" />
+  
+  <!-- Outer Ring (Camera/O Symbol) -->
+  <circle cx="50" cy="55" r="22" fill="none" stroke="#ffffff" stroke-width="12" />
+  
+  <!-- Top Right Small Circle -->
+  <circle cx="68" cy="32" r="7" fill="#ffffff" />
+  
+  <!-- Text: WordCanvas -->
+  <text x="115" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="bold" fill="#000000">WordCanvas</text>
+</svg>
