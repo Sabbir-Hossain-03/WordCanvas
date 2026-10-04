@@ -58,10 +58,10 @@ export const stepsData = [
 export const testimonialsData = [
     {
         image:profile_img_1,
-        name:'Donald Jackman',
+        name:'Luke Thompson',
         role:'Graphic Designer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`This AI tool has completely transformed my design workflow! I can turn complex visual concepts into crisp, high-resolution artwork in seconds. It saves me hours of manual editing.`
     },
     {
         image:profile_img_2,
@@ -72,10 +72,10 @@ export const testimonialsData = [
     },
     {
         image:profile_img_1,
-        name:'Donald Jackman',
+        name:'Luke Thompson',
         role:' Graphic Designer',
-        stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        stars:4,
+        text:`I've been using this image generator for several months to draft quick UI assets and mockups. The quality and style consistency are far ahead of other tools I've tried!`
     },
 ]
 
